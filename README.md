@@ -1,4 +1,5 @@
 # Mindbox Todo (React + TypeScript)
+- Ссылка на проект - https://chuppy101.github.io/Mindbox_Todo/
 
 ## Scripts
 
