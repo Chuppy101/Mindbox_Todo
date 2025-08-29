@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/__tests__/app.test.tsx","./src/components/todofooter.tsx","./src/components/todoitem.tsx","./src/components/todolist.tsx","./src/hooks/usetodos.ts","./vitest.setup.ts"],"version":"5.9.2"}

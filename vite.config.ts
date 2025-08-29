@@ -4,6 +4,7 @@ import type { UserConfig as VitestUserConfig } from "vitest/config"
 
 export default defineConfig({
 	plugins: [react()],
+	base: "/mindbox_todo/",
 	// @ts-ignore
 	test: {
 		globals: true,
